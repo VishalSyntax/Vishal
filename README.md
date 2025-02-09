@@ -25,7 +25,7 @@
   <div style="margin-top: 25px; background: #EDF2F7; padding: 15px; border-radius: 6px;">
     <p>Let's connect and build something awesome! 
     <a href="https://www.linkedin.com/in/vishal-thecoder/" style="color: #2B6CB0; text-decoration: none;">👉 LinkedIn</a> | 
-    <a href="https://github.com/TechVishal-07" style="color: #2B6CB0; text-decoration: none;">GitHub</a></p>
+    <a href="https://github.com/TechVishal-007" style="color: #2B6CB0; text-decoration: none;">GitHub</a></p>
     <p style="color: #4A5568; margin-top: 8px;">#Fresher #WebDev #JavaCoder #TechEnthusiast</p>
   </div>
 </div>
